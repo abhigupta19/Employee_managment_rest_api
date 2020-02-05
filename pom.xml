@@ -21,8 +21,8 @@
   <build>
     <plugins>
       <plugin>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-maven-plugin</artifactId>
+         <groupId>com.abhinav</groupId>
+         <artifactId>employee-api</artifactId>
       </plugin>
     </plugins>
   </build>
